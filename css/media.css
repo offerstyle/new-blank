@@ -1,0 +1,12 @@
+@media (min-width:1200px){
+/* xl  desktop */
+}
+@media (min-width:992px) and (max-width:1199px) {
+/*   lg ipadpro*/
+}
+@media (min-width:768px) and (max-width:991px) {
+/*    md tablet*/
+}
+@media (max-width:767px) {
+/*   xs heraxos*/
+}

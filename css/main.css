@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,700,800&display=swap&subset=cyrillic');
+body{
+    font-family: 'Montserrat', sans-serif;
+    color: #222;
+    font-size: 16px;
+}
+body.active{
+    overflow: hidden;
+}
+*{
+    outline: none!important
+}
